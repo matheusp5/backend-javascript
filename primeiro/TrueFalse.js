@@ -19,6 +19,8 @@ console.log("" == false);
 console.log(minhaVar)
 console.log(testeAnulado)
 
+//
+
 let nome = "Matheus";
 let idade = 13;
 
